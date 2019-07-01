@@ -1,10 +1,10 @@
 {
-  "name": "curso-javascript-projeto-dropbox-clone",
-  "homepage": "https://github.com/hcodebr/curso-javascript-projeto-dropbox-clone",
+  "name": "Dropbox Clone",
+  "homepage": "https://github.com/klasrak/dropbox-clone",
   "authors": [
-    "Hcode Treinamento"
+    "Danilo Augusto"
   ],
-  "description": "Projeto desenvolvido no Curso Completo de JavaScript da Hcode",
+  "description": "A clone of the main features of Dropbox for study purposes",
   "main": "index.html",
   "license": "MIT",
   "ignore": [
